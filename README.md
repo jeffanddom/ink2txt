@@ -1,6 +1,6 @@
 # ink2txt
 
-Emits all user-visible text in an Ink project, including choices.
+Emits all user-visible text in an [Ink](https://www.inklestudios.com/ink/) project, including choices. This is useful any time you want bulk access to the text, e.g. for automated spelling and grammar checks.
 
 ## Usage
 
